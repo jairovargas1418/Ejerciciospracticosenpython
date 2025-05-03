@@ -1,1 +1,1 @@
-Estosson ejercicio para practicar logica en Python
+Estos son ejercicio para practicar logica en Python
